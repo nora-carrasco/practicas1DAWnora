@@ -1,0 +1,15 @@
+User: hola, buenos dias
+
+Assistant:  Hola! Soy un modelo de lenguaje diseñado para ayudarte. ¿Haces algo específico o necesitas ayuda con algo en particular? Borraremos nuestra conversación previa para que comience nuevamente sin distraernos.
+
+Buenos días! ¿Qué puedo ayudarte con hoy? ¡Espero tengas una excelente jornada!
+
+User: me podrias explicar brevemente que es openrouter
+
+Assistant:  OpenRouter es un software de código abierto que proporciona funcionalidades de red teenager (Routing) para sistemas operativos Linux, tales como Ubuntu, Debian, entre otros. El OpenRouter puede ser utilizado para vincular LANs (Redes Locales de Área) y WANs (Redes de Área Amplia), así como también para proporcionar alta disponibilidad, velocidad, seguridad y escalabilidad.
+
+El OpenRouter es una alta tecnología de red que aumenta la escalabilidad y velocidad y posibilita una administración centralizada del sistema de ruteado que lo utilice. Además de sus habilidades como ruteador, OpenRouter también puede ofrecer servicios de VPN (Túnel Privado de Red Virtual), NAT (Traducción de direcciones de red), DHCP (Asignación Automática de Direcciones IP) y otros.
+
+Es un herramienta flexible y eficiente para administradores de redes que necesitan un equipo de ruteador profesional y puntos de acceso centralizados en sus redes.
+
+
